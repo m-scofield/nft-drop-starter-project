@@ -1,0 +1,23 @@
+{
+  "name": "Last min Everton",
+  "symbol": "",
+  "image": "3.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "3.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "FG8j6AVP8Ud1me6s7MF9YjmW7qNWCyDKYMYYyhXz1xZ",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "Origius",
+    "family": "PojNFT"
+ }
+}

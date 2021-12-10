@@ -1,0 +1,23 @@
+{
+  "name": "Origius",
+  "symbol": "",
+  "image": "0.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "FG8j6AVP8Ud1me6s7MF9YjmW7qNWCyDKYMYYyhXz1xZ",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "Origius",
+    "family": "PojNFT"
+ }
+}
